@@ -1,2 +1,2 @@
 # HackerRankSolutions
-This is some resolution of HackerRank's Algorithms.
+This is a resolution of some HackerRank's Algorithms in Java.
